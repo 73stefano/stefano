@@ -1,3 +1,5 @@
+# My Personal Site
+
 # Astro Landing Page
 
 An Astro + Tailwind CSS starter kit for landing pages.
